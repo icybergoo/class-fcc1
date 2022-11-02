@@ -1,0 +1,7 @@
+name: geo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - geopandas=0.9.*
+  - python=3.10.*
